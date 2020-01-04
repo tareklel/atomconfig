@@ -1,0 +1,26 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "ac44379c-1076-4474-b7db-05f70f4f860c"
+  "autocomplete-python":
+    useKite: false
+  core:
+    disabledPackages: [
+      "jslint"
+      "linter-jshint"
+      "linter-jscs"
+    ]
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 16
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "749d4339-9893-d3a8-0c29-a9d954968b2e"
+  "linter-ui-default":
+    panelHeight: 301
+  "sync-settings": {}
+  welcome:
+    showOnStartup: false
